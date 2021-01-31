@@ -83,6 +83,9 @@ test:
 #
 production:
   <<: *default
-  database: odisha_times_db
-  username: odisha_times
-  password: mana@123
+  database: d21o847iimhjuv
+  username: zmqcwlfwfqszhr
+  password: 5b7ddba8b91604eb67f7836000d3fc25b5257320d9fe6fa3745f499193c5f335
+  host: ec2-52-22-238-188.compute-1.amazonaws.com
+  port: 5432
+
